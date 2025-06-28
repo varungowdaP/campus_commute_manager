@@ -27,17 +27,17 @@ Built for students and recruiters to post, find, and manage rides with real-time
 
 
 ## Images
+![Screenshot 2025-06-28 160507](https://github.com/user-attachments/assets/d5c5383e-bfc4-4dac-b667-294eb05b1e67)
 
-![Screenshot 2025-06-28 160507](https://github.com/user-attachments/assets/ae799910-110e-44c3-85a0-4ce99c5a3a6a)
-![Screenshot 2025-06-28 160735](https://github.com/user-attachments/assets/152fcd29-e7bc-452c-a8c5-2160![Screenshot 2025-06-28 160827]
-(https://github.com/user-attachments/assets/86c1f839-1157-4adb-a45a-302b6b691002)
-457e9c87)
 
-![Uploading Screenshot 2025-06-28 160827.png…]()
+![Screenshot 2025-06-28 160735](https://github.com/user-attachments/assets/9a4e50da-df66-405f-b37d-4840be90afe8)
 
-e-7c80-4a0f-b000-aed560b5171c)
-7363-4ec8-9260-28ba3dac3bb7)![Screenshot 2025-06-28 160910](https://github.com/user-attachments/assets/fa4de294-74dc-44c5-b3a0-721c28cf647c)
-![Uploading Screenshot 2025-06-28 160956.png…]()
+![Screenshot 2025-06-28 160827](https://github.com/user-attachments/assets/90fbee5f-49fa-4228-a2e0-ee17b7ba9069)
+
+![Screenshot 2025-06-28 160910](https://github.com/user-attachments/assets/2e812d11-a7d4-4cce-9012-51f47f409794)
+
+![Screenshot 2025-06-28 160956](https://github.com/user-attachments/assets/4941c5d5-c7af-4246-80c4-f138579e52ad)
+
 
 
 
