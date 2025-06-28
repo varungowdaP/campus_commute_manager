@@ -29,7 +29,10 @@ Built for students and recruiters to post, find, and manage rides with real-time
 ## Images
 
 ![Screenshot 2025-06-28 160507](https://github.com/user-attachments/assets/ae799910-110e-44c3-85a0-4ce99c5a3a6a)
-![Screenshot 2025-06-28 160735](https://github.com/user-attachments/assets/152fcd29-e7bc-452c-a8c5-2160457e9c87)![Screenshot 2025-06-28 160827](https://github.com/user-attachments/assets/50060a4e-![Screenshot 2025-06-28 160910](https://github.com/user-attachments/assets/c991e19![Uploading Screenshot 2025-06-28 160956.png…]()
+![Screenshot 2025-06-28 160735](https://github.com/user-attachments/assets/152fcd29-e7bc-452c-a8c5-2160457e9c87)
+![Screenshot 2025-06-28 160827](https://github.com/user-attachments/assets/50060a4e-
+![Screenshot 2025-06-28 160910](https://github.com/user-attachments/assets/c991e19
+![Uploading Screenshot 2025-06-28 160956.png…]()
 e-7c80-4a0f-b000-aed560b5171c)
 7363-4ec8-9260-28ba3dac3bb7)
 
