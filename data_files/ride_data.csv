@@ -1,0 +1,51 @@
+name,role,from,to,time,seats_available,contact,status
+Nisha,recruiter,College,BTM Layout,18:00,0,9837047639,full
+Anjali,recruiter,College,BTM Layout,16:30,0,9879296820,full
+Riya,student,College,BTM Layout,18:00,4,9850059968,available
+Aditya,recruiter,College,Whitefield,16:00,0,9843505501,full
+Pooja,recruiter,College,Indiranagar,15:30,0,9850390980,full
+Riya,recruiter,College,Indiranagar,18:00,1,9873716311,available
+Arjun,student,College,Whitefield,16:30,2,9866014679,available
+Arjun,student,College,Indiranagar,16:30,2,9826469700,available
+Ishita,recruiter,College,BTM Layout,17:00,4,9866440013,available
+Siddharth,student,College,Yelahanka,18:00,4,9891324536,available
+Siddharth,student,College,Marathahalli,16:30,0,9883110139,full
+Simran,student,College,Yelahanka,15:30,3,9878953839,available
+Sneha,student,College,Koramangala,17:30,4,9875165019,available
+Megha,recruiter,College,Indiranagar,17:00,4,9862219693,available
+Anjali,student,College,Indiranagar,16:00,0,9890481466,full
+Nisha,student,College,Yelahanka,15:30,0,9826703459,full
+Nisha,student,College,Koramangala,18:00,0,9884155540,full
+Siddharth,recruiter,College,Yelahanka,17:30,1,9894971572,available
+Riya,recruiter,College,Indiranagar,16:30,2,9837089514,available
+Pooja,student,College,Koramangala,16:30,1,9818901444,available
+Siddharth,recruiter,College,BTM Layout,17:00,2,9810513263,available
+Nisha,student,College,Yelahanka,17:30,4,9898963769,available
+Anjali,recruiter,College,Koramangala,15:00,3,9854156750,available
+Arjun,student,College,Whitefield,15:00,1,9815840141,available
+Aditya,recruiter,College,Koramangala,18:30,1,9894271640,available
+Tanya,student,College,Hebbal,15:00,3,9879238752,available
+Aditya,recruiter,College,Whitefield,16:30,0,9864653690,full
+Tanya,student,College,Whitefield,18:00,1,9880615856,available
+Sneha,recruiter,College,Marathahalli,16:00,0,9878071929,full
+Yash,student,College,Hebbal,15:30,4,9827887603,available
+Siddharth,student,College,Koramangala,18:30,1,9819576408,available
+Nisha,recruiter,College,Koramangala,18:30,2,9823532356,available
+Sneha,student,College,Indiranagar,18:30,2,9865696675,available
+Yash,recruiter,College,Whitefield,16:00,0,9882054939,full
+Megha,recruiter,College,Marathahalli,15:30,0,9825703963,full
+Megha,recruiter,College,Marathahalli,16:30,2,9861541384,available
+Riya,student,College,Marathahalli,16:00,3,9841789079,available
+Aman,student,College,Whitefield,16:30,3,9874329685,available
+Pooja,student,College,Yelahanka,16:00,4,9840833837,available
+Sneha,recruiter,College,Yelahanka,18:00,1,9868020008,available
+Rohan,student,College,Hebbal,17:30,1,9860073995,available
+Pooja,recruiter,College,BTM Layout,18:00,2,9829264901,available
+Aman,student,College,BTM Layout,17:00,0,9831741077,full
+Nisha,student,College,BTM Layout,17:30,0,9882441517,full
+Aditya,recruiter,College,Hebbal,18:30,3,9825608519,available
+Ishita,recruiter,College,Hebbal,16:00,1,9842991407,available
+Arjun,recruiter,College,Koramangala,18:30,1,9846033437,available
+Sneha,recruiter,College,Marathahalli,15:00,3,9865670400,available
+Sneha,recruiter,College,Marathahalli,16:30,1,9862518266,available
+Ishita,student,College,BTM Layout,16:30,2,9820009573,available
