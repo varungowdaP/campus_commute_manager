@@ -41,6 +41,10 @@ Built for students and recruiters to post, find, and manage rides with real-time
 
 
 
+https://github.com/user-attachments/assets/53a59041-8f86-438f-8107-34bdeefae5e2
+
+
+
 ## 📦 Installation
 
 ```bash
